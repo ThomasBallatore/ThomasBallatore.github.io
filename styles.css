@@ -1,13 +1,13 @@
 
 body {
-  background-image: url("images/meteor_large.jpg");
+  background-image: url("images/meteor_large2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 @media screen and (max-width: 600px) {
   body {
-    background-image: url("images/meteor_small.jpg");
+    background-image: url("images/meteor_small2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
